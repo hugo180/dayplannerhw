@@ -1,4 +1,4 @@
-# dayplannerhw
+# dailyplannerhw
 in this project i created a Daily planner schedule that saves data in the local storage;
  I am using a daily planner to create a schedule
 WHEN I open the planner the current day is displayed at the top of the calendar, scroll down
